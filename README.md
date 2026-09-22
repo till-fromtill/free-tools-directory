@@ -22,6 +22,11 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [Free Contract Maker](https://freecontractmaker.app) helps small businesses and freelancers draft common agreements through guided questions and export editable Word or PDF documents.
 
+
+### Plainrow
+
+[Plainrow](https://fromtill.com/plainrow/) stacks and dedupes CSV sheets in the browser with nothing uploaded. Lite is free forever for two-file stack and dedupe; when a client catalog needs a warehouse left-join (or split/clean), Kitchen is a $19 one-time zip that still runs on this computer.
+
 ## AI, SEO, And Productivity
 
 ### AI SEO Hub
@@ -79,6 +84,7 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 ## Suggested Starting Points
 
 - Need a business document: start with Business Template Hub, Invoice PDF, or Free Contract Maker.
+- Need offline CSV stack/dedupe without uploading: start with Plainrow.
 - Need SEO or AI workflow help: start with AI SEO Hub, Prompt Library, Flow Templates, or MinutesAI.
 - Need developer documentation visuals: start with Diagramgen.
 - Need creative assets: start with Free Mockup, Niche Logo, Free Tattoo, Free Room Redesign, or Free Headshot.
