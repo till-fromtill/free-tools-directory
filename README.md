@@ -24,7 +24,7 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 ### Plainrow: match two CSV files by SKU
 
-[Plainrow](https://fromtill.com/plainrow/): Match two CSV files by SKU, like warehouse stock onto a product catalog. For VAs and bookkeepers who can't upload client files. Lite free (stack/dedupe). Kitchen $19 does the match.
+[Plainrow](https://fromtill.com/plainrow/): Match two CSV files by SKU or email, like warehouse stock onto a product catalog. For VAs and bookkeepers who can't upload client files. Lite free (stack/dedupe). Kitchen $19 does the match.
 
 ## AI, SEO, And Productivity
 
